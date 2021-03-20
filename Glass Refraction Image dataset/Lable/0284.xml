@@ -1,0 +1,38 @@
+<annotation>
+	<folder>(3）不同遮挡情况下的图像</folder>
+	<filename>图片 (13).jpeg</filename>
+	<path>C:\Users\84645\Desktop\人脸识别\人脸识别\人脸识别\(3）不同遮挡情况下的图像\图片 (13).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>298</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>158</ymin>
+			<xmax>281</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>specialarea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>219</ymin>
+			<xmax>214</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1255.jpg</filename>
+    <path>1-PascalVOC-export/Annotations/1255.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>840</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>specialarea</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>160.27171018095356</xmin>
+        <ymin>387.25423004667635</ymin>
+        <xmax>173.55235706676137</xmax>
+        <ymax>396.7457554704052</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>155.528627177001</xmin>
+        <ymin>373.96611617783367</ymin>
+        <xmax>187.7816060786191</xmax>
+        <ymax>419.52543097027274</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>(1)不同光线情况下透过玻璃进行拍摄</folder>
+	<filename>图片 (88).jpg</filename>
+	<path>C:\Users\84645\Desktop\人脸识别\人脸识别\人脸识别\(1)不同光线情况下透过玻璃进行拍摄\图片 (88).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1988</width>
+		<height>2649</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>599</xmin>
+			<ymin>646</ymin>
+			<xmax>1002</xmax>
+			<ymax>1049</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>specialarea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>810</xmin>
+			<ymin>818</ymin>
+			<xmax>922</xmax>
+			<ymax>930</ymax>
+		</bndbox>
+	</object>
+</annotation>

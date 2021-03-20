@@ -1,0 +1,26 @@
+<annotation>
+	<folder>图片</folder>
+	<filename>332.jpg</filename>
+	<path>C:\Users\84645\Desktop\人脸识别\图片\图片\332.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>596</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>108</ymin>
+			<xmax>345</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

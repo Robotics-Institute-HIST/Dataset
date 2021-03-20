@@ -1,0 +1,38 @@
+<annotation>
+	<folder>(6）不同反射程度的图像</folder>
+	<filename>图片 (114).jpg</filename>
+	<path>C:\Users\84645\Desktop\人脸识别\人脸识别\人脸识别\(6）不同反射程度的图像\图片 (114).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>815</ymin>
+			<xmax>906</xmax>
+			<ymax>1386</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>specialarea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>525</xmin>
+			<ymin>936</ymin>
+			<xmax>732</xmax>
+			<ymax>1143</ymax>
+		</bndbox>
+	</object>
+</annotation>

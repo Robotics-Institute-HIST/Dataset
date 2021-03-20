@@ -1,0 +1,38 @@
+<annotation>
+	<folder>(5）不同玻璃表面水滴浓度下的图像</folder>
+	<filename>图片 (63).jpg</filename>
+	<path>C:\Users\84645\Desktop\人脸识别\人脸识别\人脸识别\(5）不同玻璃表面水滴浓度下的图像\图片 (63).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>662</ymin>
+			<xmax>1825</xmax>
+			<ymax>2296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>specialarea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>1174</ymin>
+			<xmax>1255</xmax>
+			<ymax>1735</ymax>
+		</bndbox>
+	</object>
+</annotation>

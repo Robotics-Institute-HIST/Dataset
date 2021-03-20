@@ -1,0 +1,26 @@
+<annotation>
+	<folder>(2）透过不同颜色的玻璃进行拍摄</folder>
+	<filename>图片 (90).jpg</filename>
+	<path>C:\Users\84645\Desktop\人脸识别\人脸识别\人脸识别\(2）透过不同颜色的玻璃进行拍摄\图片 (90).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>72</ymin>
+			<xmax>171</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

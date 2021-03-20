@@ -1,0 +1,38 @@
+<annotation>
+	<folder>图片</folder>
+	<filename>90 .jpg</filename>
+	<path>C:\Users\84645\Desktop\人脸识别\图片\图片\90 .jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>68</ymin>
+			<xmax>343</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>specialarea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>106</ymin>
+			<xmax>296</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>

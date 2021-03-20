@@ -1,0 +1,38 @@
+<annotation>
+	<folder>(4）不均匀的弯曲、厚度造成的目标折射扭曲等图像</folder>
+	<filename>图片 (66).jpg</filename>
+	<path>C:\Users\84645\Desktop\人脸识别\人脸识别\人脸识别\(4）不均匀的弯曲、厚度造成的目标折射扭曲等图像\图片 (66).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4896</width>
+		<height>6528</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>783</xmin>
+			<ymin>2620</ymin>
+			<xmax>3405</xmax>
+			<ymax>5242</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>specialarea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2255</xmin>
+			<ymin>3492</ymin>
+			<xmax>2919</xmax>
+			<ymax>4156</ymax>
+		</bndbox>
+	</object>
+</annotation>
